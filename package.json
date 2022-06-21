@@ -1,0 +1,34 @@
+{
+  "name": "thevunit",
+  "version": "1.0.0",
+  "description": "A NPM Package Made with ♥ by Ahad#3257",
+  "main": "TheVUnit.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "discord.jsv13",
+    "thevunit",
+    "ahad noor",
+    "cruel dev"
+  ],
+  "homepage": "https://simplyd.js.org",
+  "author": "Ahad#3257",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CruelDev69/TheVUnit.git"
+  },
+  "dependencies": {
+    "node-fetch": "2.6.1"
+  },
+  "devDependencies": {
+    "discord.js": "^13.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/CruelDev69/TheVUnit/issues"
+  }
+}
